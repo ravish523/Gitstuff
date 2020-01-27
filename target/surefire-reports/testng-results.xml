@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="57" started-at="2019-12-12T12:00:06Z" finished-at="2019-12-12T12:00:06Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="57" started-at="2019-12-12T12:00:06Z" finished-at="2019-12-12T12:00:06Z">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method status="PASS" signature="Browser()[pri:0, instance:qaclickacademy.AppiumTest@7946e1f4]" name="Browser" duration-ms="11" started-at="2019-12-12T12:00:06Z" finished-at="2019-12-12T12:00:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser -->
+        <test-method status="PASS" signature="elements()[pri:0, instance:qaclickacademy.AppiumTest@7946e1f4]" name="elements" duration-ms="0" started-at="2019-12-12T12:00:06Z" finished-at="2019-12-12T12:00:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elements -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:qaclickacademy.SeleniumTest@5cc7c2a6]" name="BrowserAutomation" duration-ms="1" started-at="2019-12-12T12:00:06Z" finished-at="2019-12-12T12:00:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="elementsUi()[pri:0, instance:qaclickacademy.SeleniumTest@5cc7c2a6]" name="elementsUi" duration-ms="0" started-at="2019-12-12T12:00:06Z" finished-at="2019-12-12T12:00:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUi -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+      <class name="qaclickacademy.RestApiTest">
+        <test-method status="PASS" signature="Automation()[pri:0, instance:qaclickacademy.RestApiTest@3c09711b]" name="Automation" duration-ms="0" started-at="2019-12-12T12:00:06Z" finished-at="2019-12-12T12:00:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Automation -->
+        <test-method status="PASS" signature="ementsUi()[pri:0, instance:qaclickacademy.RestApiTest@3c09711b]" name="ementsUi" duration-ms="0" started-at="2019-12-12T12:00:06Z" finished-at="2019-12-12T12:00:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ementsUi -->
+      </class> <!-- qaclickacademy.RestApiTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
